@@ -1,0 +1,42 @@
+{
+    "posts": [
+      
+      {
+        "description": "1296p full HD Plug & Play Wi-Fi PT camera, which enables crisp images that reveal the smallest details with absolute clarity. Now, Works with Alexa & Ok Google so you can go hands-free and enjoy the safety of a smart home.",
+        "id": "1",
+        "image" : "https://m.media-amazon.com/images/I/31Lo31c7kwL._SX300_SY300_QL70_FMwebp_.jpg",
+        "price" : 2000,
+        "title" : "CCTV Camera"
+        
+      },
+
+      {
+        "description": "Will last you for a year...not for gym and stuff...one set of pushups will ruin these shoes...these are more like looks good in pictures kinda shoes.",
+        "id": "2",
+        "image" : "https://m.media-amazon.com/images/I/61gcTM6K3NL._SY695_.jpg",
+        "price" : 1331,
+        "title" : "Campus Men's OG-11 Sneakers"
+        
+      },
+
+      {
+        "description": "1296p full HD Plug & Play Wi-Fi PT camera, which enables crisp images that reveal the smallest details with absolute clarity. Now, Works with Alexa & Ok Google so you can go hands-free and enjoy the safety of a smart home.",
+        "id": "3",
+        "image" : "https://m.media-amazon.com/images/I/61BDn97TtRL._SY695_.jpg",
+        "price" : 626,
+        "title" : "ASIAN Men's Bullet-13 Sports Running Shoes Walking,Gym Casual Sneaker Lace-Up Lightweight Shoes for Gym"
+        
+      },
+
+      {
+        "description": "LOW FAT SNACKING: Enjoy guilt-free snacking with Eatopia Superfood Combo of Oat Bites Cheese Tomato, Masala Crunch & BBQ, boasting a remarkable 70% less fat than traditional fried snacks. These wholesome bites are the perfect choice for those seeking a healthier alternative.",
+        "id": "4",
+        "image" : "https://m.media-amazon.com/images/I/519wWvs9uNL._SX300_SY300_QL70_FMwebp_.jpg",
+        "price" : 594,
+        "title" : "Eatopia Superfood Oat Bites - 2 BBQ + 2 Cheese Tomato + 2 Masala Crunch"
+        
+      }
+      
+    ]
+   
+  }
